@@ -8,12 +8,12 @@
 │    └── ...
 │
 ├── notebook
-│    ├── esercizi
-│    │   ├── ...
+│    ├── esercizi                       # Esercizi 
+│    │   ├── java_ex_0.ipynb
 │    │   └── ...
 │    │
-│    └── soluzioni
-│        ├── ...
+│    └── soluzioni                      # Soluzioni
+│        ├── java_sol_0.ipynb
 │        └── ...
 │
 ├── LICENSE
