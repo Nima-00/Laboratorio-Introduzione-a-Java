@@ -3,20 +3,26 @@
 ## Organizzazione Repository
 
 ```
-├── esercizi
-│    ├── ...
-│    └── ...
+├── 01_teoria/                              # Teoria
+│   ├── 00_java_introduction.ipynb
+│   ├── 01_java_data_types.ipynb
+│   ├── 02_java_control_flow.ipynb
+│   └── 03_java_functions.ipynnb
 │
-├── notebook
-│    ├── esercizi                       # Esercizi 
-│    │   ├── java_ex_0.ipynb
-│    │   └── ...
-│    │
-│    └── soluzioni                      # Soluzioni
-│        ├── java_sol_0.ipynb
-│        └── ...
+├── 02_esercizi/                            # Esercizi
+│   ├── java_ex_0.ipynb
+│   ├── java_ex_1.ipynb
+│   ├── java_ex_2.ipynb
+│   ├── java_ex_3.ipynb
+│   └── java_ex_4.ipynb
 │
-├── LICENSE
+├── 03_soluzioni/                           # Soluzioni
+│   ├── java_ex_0.ipynb
+│   ├── java_ex_1.ipynb
+│   ├── java_ex_2.ipynb
+│   ├── java_ex_3.ipynb
+│   └── java_ex_4.ipynb
+│
 └── README.md
 ```
 
